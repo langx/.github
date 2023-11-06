@@ -4,7 +4,7 @@
 
 ### Language learning can be a challenging but **rewarding process!**
 
-<img src="./src/sample-image.png" alt="Sample App" style="max-width: 400px;">
+<img src="../src/sample-image.png" alt="Sample App" style="width: 300px;">
 
 ## Features
 
