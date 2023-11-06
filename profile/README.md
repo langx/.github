@@ -2,9 +2,13 @@
 
 ## Words are the keys that unlock, a world of connections.
 
+---
+
 <img src="https://github.com/languageXchange/.github/assets/3280475/7848588d-04f2-42de-b8b7-be1c35bc5603" alt="Sample App" style="width: 500px;">
 
 ## Language learning can be a challenging but **rewarding process!**
+
+---
 
 ## Features
 
