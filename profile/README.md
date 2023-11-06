@@ -4,7 +4,7 @@
 
 ### Language learning can be a challenging but **rewarding process!**
 
-<img src="../src/sample-image.png" alt="Sample App" style="width: 300px;">
+<img src="https://github.com/languageXchange/.github/assets/3280475/7848588d-04f2-42de-b8b7-be1c35bc5603" alt="Sample App" style="width: 400px;">
 
 ## Features
 
