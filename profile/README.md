@@ -1,3 +1,9 @@
+# Announcement
+
+We're excited to announce that this project will be open sourced soon. Stay tuned for updates!
+
+---
+
 # Practice, Learn, Succeed!
 
 ## Words are the keys that unlock, a world of connections.
