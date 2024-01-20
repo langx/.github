@@ -1,5 +1,4 @@
-![Featured Image](assets/featured_image.png)
-
+[![Featured Image](assets/featured_image.png)](https://languageXchange.net)
 # Announcement
 
 1 - Don't miss out on securing your Early Adopter Badge! As a token of appreciation, these pioneering users will be gifted with exclusive benefits in the near future. Join us now and be part of the select group to enjoy special privileges down the road. Act fast, and let your journey with us begin with an exclusive touch!
