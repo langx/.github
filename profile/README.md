@@ -1,3 +1,5 @@
+![Featured Image](assets/featured_image.png)
+
 # Announcement
 
 1 - Don't miss out on securing your Early Adopter Badge! As a token of appreciation, these pioneering users will be gifted with exclusive benefits in the near future. Join us now and be part of the select group to enjoy special privileges down the road. Act fast, and let your journey with us begin with an exclusive touch!
@@ -11,7 +13,7 @@
 ## Words are the keys that unlock, a world of connections.
 
 ---
-![Featured Image](assets/featured_image.png)
+
 ![Sample App](assets/homepage-app.gif)
 
 ## Language learning can be a challenging but **rewarding process!**
