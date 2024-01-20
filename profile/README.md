@@ -11,6 +11,7 @@
 ## Words are the keys that unlock, a world of connections.
 
 ---
+![Featured Image](assets/featured_image.png)
 ![Sample App](assets/homepage-app.gif)
 
 ## Language learning can be a challenging but **rewarding process!**
