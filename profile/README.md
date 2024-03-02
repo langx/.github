@@ -1,8 +1,12 @@
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/vrew.svg)](https://status.languageXchange.net/)
+[![Join us on Discord](https://dcbadge.vercel.app/api/server/CpDZ3kg2rJ?style=flat)](https://discord.gg/CpDZ3kg2rJ)
+
 [![Featured Image](assets/featured_image.png)](https://languageXchange.net)
+
 # Announcement
 
 1 - Don't miss out on securing your Early Adopter Badge! As a token of appreciation, these pioneering users will be gifted with exclusive benefits in the near future. Join us now and be part of the select group to enjoy special privileges down the road. Act fast, and let your journey with us begin with an exclusive touch!
- 
+
 2 - We're excited to announce that this project will be open sourced soon. Stay tuned for updates!
 
 ---
