@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  [![Featured Image](assets/featured_image.png)](https://languageXchange.net)
+ <img href="https://languageXchange.net" alt="Featured Image" src="../assets/featured_image.png" />
 </p>
 
 
