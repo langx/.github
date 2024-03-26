@@ -25,7 +25,9 @@
 </p>
 
 <p align="center">
- <img href="https://languageXchange.net" alt="Featured Image" src="https://github.com/languageXchange/.github/blob/main/assets/featured_image.png" />
+  <a href="https://languageXchange.net" target="_blank">
+  <img alt="Featured Image" src="https://github.com/languageXchange/.github/blob/main/assets/featured_image.png" />
+  </a>
 </p>
 
 
