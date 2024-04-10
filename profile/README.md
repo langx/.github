@@ -23,6 +23,11 @@
   <a href="https://discord.com/invite/2D3jW2YDgS" target="_blank"><img src="https://dcbadge.vercel.app/api/server/2D3jW2YDgS?style=flat" alt="Join us on Discord"></a>
 </p>
 <p align="center">
+| iOS | Android | Web App |
+|:-:|:-:|:-:|
+| [<img src="assets/ios.png" height="50" target="_blank">](https://apps.apple.com/app/languagexchange/id6474187141) | [<img src="assets/android.png" height="50" target="_blank">](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [<img src="assets/pwa.png" height="50" target="_blank">](https://app.langx.io) |
+</p>
+<p align="center">
   <a href="https://langx.io" target="_blank">
   <img alt="Featured Image" src="https://github.com/langxapp/.github/blob/main/assets/featured_image.png" />
   </a>
@@ -40,19 +45,9 @@
 
 ## Words are the keys that unlock, a world of connections.
 
----
-## Using LangX App
-
-Using LangX is simple and intuitive. You can access it directly from your web browser by heading over to [langx.io](https://app.langx.io). It's free to use and all browsers are supported!
-
-| iOS | Android | Web App |
-|:-:|:-:|:-:|
-| [<img src="assets/ios.png" height="50" target="_blank">](https://apps.apple.com/app/languagexchange/id6474187141) | [<img src="assets/android.png" height="50" target="_blank">](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [<img src="assets/pwa.png" height="50" target="_blank">](https://app.langx.io) |
-
 ![LangX App](assets/homepage-app.gif)
 
-## Language learning with LangX can be a fun and **rewarding process!**
----
+### Language learning with LangX can be a fun and **rewarding process!**
 
 ## Features
 
