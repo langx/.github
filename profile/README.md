@@ -23,7 +23,9 @@
   <a href="https://discord.com/invite/2D3jW2YDgS" target="_blank"><img src="https://dcbadge.vercel.app/api/server/2D3jW2YDgS?style=flat" alt="Join us on Discord"></a>
 </p>
 <p align="center">
- [<img src="assets/ios.png" height="50" target="_blank">](https://apps.apple.com/app/languagexchange/id6474187141) [<img src="assets/android.png" height="50" target="_blank">](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) [<img src="assets/pwa.png" height="50" target="_blank">](https://app.langx.io) |
+  <a href='https://apps.apple.com/app/languagexchange/id6474187141' target='_blank'><img src="assets/ios.png" height="50"></a>
+  <a href='https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange' target='_blank'><img src="assets/android.png" height="50"></a>
+  <a href='https://app.langx.io' target='_blank'><img src="assets/pwa.png" height="50"></a>
 </p>
 <p align="center">
   <a href="https://langx.io" target="_blank">
