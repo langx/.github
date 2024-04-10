@@ -23,9 +23,7 @@
   <a href="https://discord.com/invite/2D3jW2YDgS" target="_blank"><img src="https://dcbadge.vercel.app/api/server/2D3jW2YDgS?style=flat" alt="Join us on Discord"></a>
 </p>
 <p align="center">
-| iOS | Android | Web App |
-|:-:|:-:|:-:|
-| [<img src="assets/ios.png" height="50" target="_blank">](https://apps.apple.com/app/languagexchange/id6474187141) | [<img src="assets/android.png" height="50" target="_blank">](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [<img src="assets/pwa.png" height="50" target="_blank">](https://app.langx.io) |
+ [<img src="assets/ios.png" height="50" target="_blank">](https://apps.apple.com/app/languagexchange/id6474187141) [<img src="assets/android.png" height="50" target="_blank">](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) [<img src="assets/pwa.png" height="50" target="_blank">](https://app.langx.io) |
 </p>
 <p align="center">
   <a href="https://langx.io" target="_blank">
@@ -46,6 +44,10 @@
 ## Words are the keys that unlock, a world of connections.
 
 ![LangX App](assets/homepage-app.gif)
+
+|                                                        iOS                                                        |                                                                   Android                                                                   |                                    Web App                                     |
+| :---------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+| [<img src="assets/ios.png" height="50" target="_blank">](https://apps.apple.com/app/languagexchange/id6474187141) | [<img src="assets/android.png" height="50" target="_blank">](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [<img src="assets/pwa.png" height="50" target="_blank">](https://app.langx.io) |
 
 ### Language learning with LangX can be a fun and **rewarding process!**
 
