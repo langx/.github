@@ -41,11 +41,25 @@
 ## Words are the keys that unlock, a world of connections.
 
 ---
+## Using LangX App
 
-![Sample App](assets/homepage-app.gif)
+Using LangX is simple and intuitive. You can access it directly from your web browser by heading over to [langx.io](https://app.langx.io). It's free to use and all browsers are supported!
 
-## Language learning can be a challenging but **rewarding process!**
+If you're on mobile, we've got you covered. You can either use your mobile web browser or download our fully-featured mobile apps:
 
+| Android | iOS |
+|:-:|:-:|
+| [<img src="assets/android.png" height="50">](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [<img src="assets/ios.png" height="50">](https://apps.apple.com/app/languagexchange/id6474187141) |
+
+If you want to get an early scoop of the features as they are being developed, you can also sign up for our open beta testing here:
+
+* [Android](https://play.google.com/apps/testing/com.langxapp)
+* [iOS](https://testflight.apple.com/join/isy6ja7S)
+* [Web App](https://app.langx.io)
+
+![LangX App](assets/homepage-app.gif)
+
+## Language learning with LangX can be a fun and **rewarding process!**
 ---
 
 ## Features
