@@ -45,9 +45,9 @@
 
 Using LangX is simple and intuitive. You can access it directly from your web browser by heading over to [langx.io](https://app.langx.io). It's free to use and all browsers are supported!
 
-| Android | iOS | Web App |
+| iOS | Android | Web App |
 |:-:|:-:|:-:|
-| [<img src="assets/android.png" height="50" target="_blank">](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [<img src="assets/ios.png" height="50" target="_blank">](https://apps.apple.com/app/languagexchange/id6474187141) | [<img src="assets/pwa.png" height="50" target="_blank">](https://app.langx.io) |
+| [<img src="assets/ios.png" height="50" target="_blank">](https://apps.apple.com/app/languagexchange/id6474187141) | [<img src="assets/android.png" height="50" target="_blank">](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [<img src="assets/pwa.png" height="50" target="_blank">](https://app.langx.io) |
 
 ![LangX App](assets/homepage-app.gif)
 
