@@ -1,11 +1,11 @@
  <h1 align="center"> LangX | Practice, Learn, Succeed! </h1>
 <p align="center">
   <a href="https://status.langx.io/" target="_blank"><img src="https://uptime.betterstack.com/status-badges/v1/monitor/vrew.svg" alt="Better Stack Badge"></a>
-  <a href="https://github.com/langxapp/langx/releases" target="_blank"><img src="https://img.shields.io/github/release/langxapp/langx.svg" alt="GitHub release"></a>
-  <a href="https://github.com/badges/langxapp/langx" target="_blank"><img src="https://img.shields.io/github/commit-activity/m/langxapp/langx" alt="Activity"></a>
-  <a href="https://github.com/langxapp/langx/graphs/contributors" target="_blank"><img src="https://img.shields.io/github/contributors/langxapp/langx.svg" alt="GitHub contributors"></a>
-  <a href="https://github.com/langxapp/langx/issues" target="_blank"><img src="https://img.shields.io/github/issues/langxapp/langx.svg" alt="GitHub issues"></a>
-  <a href="https://github.com/langxapp/langx/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/langxapp/langx.svg" alt="GitHub license"></a>
+  <a href="https://github.com/langx/langx/releases" target="_blank"><img src="https://img.shields.io/github/release/langx/langx.svg" alt="GitHub release"></a>
+  <a href="https://github.com/badges/langx/langx" target="_blank"><img src="https://img.shields.io/github/commit-activity/m/langx/langx" alt="Activity"></a>
+  <a href="https://github.com/langx/langx/graphs/contributors" target="_blank"><img src="https://img.shields.io/github/contributors/langx/langx.svg" alt="GitHub contributors"></a>
+  <a href="https://github.com/langx/langx/issues" target="_blank"><img src="https://img.shields.io/github/issues/langx/langx.svg" alt="GitHub issues"></a>
+  <a href="https://github.com/langx/langx/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/langx/langx.svg" alt="GitHub license"></a>
 </p>
 <p align="center">
   <a href="https://discord.com/invite/2D3jW2YDgS" target="_blank"><img src="https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
@@ -29,7 +29,7 @@
 </p>
 <p align="center">
   <a href="https://langx.io" target="_blank">
-  <img alt="Featured Image" src="https://github.com/langxapp/.github/blob/main/assets/featured_image.png" />
+  <img alt="Featured Image" src="https://github.com/langx/.github/blob/main/assets/featured_image.png" />
   </a>
 </p>
 
