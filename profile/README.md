@@ -24,13 +24,13 @@
   <a href="https://discord.langx.io" target="_blank"><img src="https://dcbadge.vercel.app/api/server/2D3jW2YDgS?style=flat" alt="Join us on Discord"></a>
 </p>
 <p align="center">
-  <a href='https://apps.apple.com/app/languagexchange/id6474187141' target='_blank'><img src="assets/ios.png" height="50"></a>
-  <a href='https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange' target='_blank'><img src="assets/android.png" height="50"></a>
-  <a href='https://app.langx.io' target='_blank'><img src="assets/pwa.png" height="50"></a>
+  <a href='https://apps.apple.com/app/languagexchange/id6474187141' target='_blank'><img src="/assets/ios.png" height="50"></a>
+  <a href='https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange' target='_blank'><img src="/assets/android.png" height="50"></a>
+  <a href='https://app.langx.io' target='_blank'><img src="/assets/pwa.png" height="50"></a>
 </p>
 <p align="center">
   <a href="https://langx.io" target="_blank">
-  <img alt="Featured Image" src="https://github.com/langx/.github/blob/main/assets/featured_image.png" />
+  <img alt="Featured Image" src="/assets/featured_image.png" />
   </a>
 </p>
 
@@ -40,11 +40,11 @@
 
 ## Words are the keys that unlock, a world of connections.
 
-![LangX App](assets/homepage-app.gif)
+![LangX App](/assets/homepage-app.gif)
 
-|                                                        iOS                                                        |                                                                   Android                                                                   |                                    Web App                                     |
-| :---------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-| [<img src="assets/ios.png" height="50" target="_blank">](https://apps.apple.com/app/languagexchange/id6474187141) | [<img src="assets/android.png" height="50" target="_blank">](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [<img src="assets/pwa.png" height="50" target="_blank">](https://app.langx.io) |
+|                                                        iOS                                                         |                                                                   Android                                                                    |                                     Web App                                     |
+| :----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+| [<img src="/assets/ios.png" height="50" target="_blank">](https://apps.apple.com/app/languagexchange/id6474187141) | [<img src="/assets/android.png" height="50" target="_blank">](https://play.google.com/store/apps/details?id=tech.newchapter.languageXchange) | [<img src="/assets/pwa.png" height="50" target="_blank">](https://app.langx.io) |
 
 ### Language learning with LangX can be a fun and **rewarding process!**
 
