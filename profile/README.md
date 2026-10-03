@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://status.langx.io/" target="_blank"><img src="https://uptime.betterstack.com/status-badges/v1/monitor/vrew.svg" alt="Better Stack Badge"></a>
   <a href="https://github.com/langx/langx/releases" target="_blank"><img src="https://img.shields.io/github/release/langx/langx.svg" alt="GitHub release"></a>
-  <a href="https://github.com/badges/langx/langx" target="_blank"><img src="https://img.shields.io/github/commit-activity/m/langx/langx" alt="Activity"></a>
+  <a href="https://github.com/langx/langx/graphs/commit-activity" target="_blank"><img src="https://img.shields.io/github/commit-activity/m/langx/langx" alt="Activity"></a>
   <a href="https://github.com/langx/langx/graphs/contributors" target="_blank"><img src="https://img.shields.io/github/contributors/langx/langx.svg" alt="GitHub contributors"></a>
   <a href="https://github.com/langx/langx/issues" target="_blank"><img src="https://img.shields.io/github/issues/langx/langx.svg" alt="GitHub issues"></a>
   <a href="https://github.com/langx/langx/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/langx/langx.svg" alt="GitHub license"></a>
